@@ -1,1 +1,1 @@
-0 0 * * * /root/system-health-check/log-backup-clean.sh >> /var/log/log_cleanup_cron.log 2>&1
+0 0 * * * /root/system-health-check/log-clean-backup.sh >> /var/log/log_cleanup_cron.log 2>&1
